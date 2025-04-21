@@ -1,1 +1,1 @@
-# generative-models-practice
+# GenAI-practice
